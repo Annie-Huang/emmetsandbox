@@ -101,4 +101,22 @@
     font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
     /*ff:v*/
     font-family: Verdana, Geneva, sans-serif;
+
+    /*fw:b*/
+    font-weight: bold;
+    /*fw:n*/
+    font-weight: normal;
+    /*fw400*/
+    font-weight: 400;
+
+    /*fs:i*/
+    font-style: italic;
+    /*fs:n*/
+    font-style: normal;
+    /*fs:o*/
+    font-style: oblique;
+
+    /*!*/
+    !important;
+
 }
