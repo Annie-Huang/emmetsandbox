@@ -1,0 +1,25 @@
+#myElement {
+/*    c#000 */
+    color: #000000;
+/*    c#0 */
+    color: #000000;
+/*    c#f4 */
+    color: #f4f4f4;
+
+/*    pos:a */
+    position: absolute;
+/*    pos:r */
+    position: relative;
+/*    pos:f */
+    position: fixed;
+/*    pos:s */
+    position: static;
+
+/*    t100 */
+    top: 100px;
+    /*t50p*/
+    top: 50%;
+    /*l3e*/
+    left: 3em;
+
+}
