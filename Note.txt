@@ -3,7 +3,8 @@ https://github.com/Annie-Huang/emmetsandbox
 
 https://emmet.io/download/
 https://docs.emmet.io/cheat-sheet/
-
+https://github.com/emmetio/emmet/tree/master/snippets
+https://github.com/emmetio/emmet/blob/master/snippets/html.json
 ======================================================
 
 Need to install the Emmet plugin in Intellij. I have already installed it.
