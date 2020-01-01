@@ -95,5 +95,10 @@
     /*td:u*/
     text-decoration: underline;
 
-
+    /*ff:a*/
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    /*ff:t*/
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    /*ff:v*/
+    font-family: Verdana, Geneva, sans-serif;
 }
