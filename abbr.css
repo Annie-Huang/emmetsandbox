@@ -22,4 +22,30 @@
     /*l3e*/
     left: 3em;
 
+    /*fl*/
+    float: left;
+    /*fl:l*/
+    float: left;
+/*    fl:r*/
+    float: right;
+    /*fl:n*/
+    float: none;
+
+/*    cl*/
+    clear: both;
+/*    cl:r*/
+    clear: right;
+    /*cl:l*/
+    clear: left;
+    /*cl:b*/
+    clear: both;
+    /*cl:n*/
+    clear: none;
+
+    /*d:b*/
+    display: block;
+    /*d:i*/
+    display: inline;
+    /*d:ib*/
+    display: inline-block;
 }
