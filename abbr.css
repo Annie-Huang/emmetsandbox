@@ -48,4 +48,26 @@
     display: inline;
     /*d:ib*/
     display: inline-block;
+
+    /*m*/
+    /*margin: ;*/
+    /*mr10*/
+    margin-right: 10px;
+    /*ml20*/
+    margin-left: 20px;
+    /*mb10*/
+    margin-bottom: 10px;
+    /*mt1e*/
+    margin-top: 1em;
+
+    /*p*/
+    /*padding: ;*/
+    /*p30*/
+    padding: 30px;
+    /*pt40*/
+    padding-top: 40px;
+    /*pl12*/
+    padding-left: 12px;
+
+
 }
