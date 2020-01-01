@@ -5,7 +5,21 @@ https://emmet.io/download/
 https://docs.emmet.io/cheat-sheet/
 https://github.com/emmetio/emmet/tree/master/snippets
 https://github.com/emmetio/emmet/blob/master/snippets/html.json
-======================================================
+
+The Intellij Emmet setting is stored in
+C:\Users\Annie\.IntelliJIdea2019.3\config\plugins\emmeteverywhere.jar\emmet.js
+
+You shouldn't edit this file to add your own alias because it's within a jar.
+Every time the plugin change will install a new jar file.
+
+Normally if you want to add a alias.
+You can go to the end of emmet.js
+e.g.
+in "html": > "abbreviations": > at the end, add:
+"post": "div#post>h1.title+p.body"
+
+Then restart your IDE.
+=========================================================================================
 
 Need to install the Emmet plugin in Intellij. I have already installed it.
 
