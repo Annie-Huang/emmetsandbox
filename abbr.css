@@ -69,5 +69,18 @@
     /*pl12*/
     padding-left: 12px;
 
+    /*w100*/
+    width: 100px;
+    /*h50p*/
+    height: 50%;
+    /*h:a*/
+    height: auto;
+
+    /*list:n*/
+    list-style-type: none;
+    /*list:c*/
+    list-style-type: circle;
+    /*list:s*/
+    list-style-type: square;
 
 }
