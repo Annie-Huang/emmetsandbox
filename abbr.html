@@ -98,9 +98,40 @@
     <p class="body"></p>
 </div>
 
-<!-- GROUPIONG () -->
+<!-- GROUPING () -->
 
 <!-- div>(header>ul>li*2>a)+footer>p -->
+<div>
+    <header>
+        <ul>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+        </ul>
+    </header>
+    <footer>
+        <p></p>
+    </footer>
+</div>
+
+<!-- Without grouping the + will stay with the lowest level -->
+<!-- div>header>ul>li*2>a+footer>p{Copyright 2017} -->
+<div>
+    <header>
+        <ul>
+            <li><a href=""></a>
+                <footer>
+                    <p>Copyright 2017</p>
+                </footer>
+            </li>
+            <li><a href=""></a>
+                <footer>
+                    <p>Copyright 2017</p>
+                </footer>
+            </li>
+        </ul>
+    </header>
+</div>
+
 
 
 <!-- ATTRIBUTES -->
