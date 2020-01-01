@@ -1,4 +1,11 @@
 https://www.youtube.com/watch?v=5BIAdWNcr8Y
 https://github.com/Annie-Huang/emmetsandbox
 
+https://emmet.io/download/
+
 ======================================================
+
+Need to install the Emmet plugin in Intellij. I have already installed it.
+
+
+
