@@ -83,4 +83,17 @@
     /*list:s*/
     list-style-type: square;
 
+    /*ta:l*/
+    text-align: left;
+    /*ta:r*/
+    text-align: right;
+    /*ta:j*/
+    text-align: justify;
+
+    /*td:n*/
+    text-decoration: none;
+    /*td:u*/
+    text-decoration: underline;
+
+
 }
